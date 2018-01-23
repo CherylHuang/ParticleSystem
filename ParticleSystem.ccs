@@ -1,0 +1,54 @@
+<Solution>
+  <PropertyGroup Name="ParticleSystem" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <PlistImageFolder Image="particle_add.png" PListFile="particle_add.plist" Name=".particle_add_PList.Dir">
+          <PlistImageFile Name="fire_btn.png" Key="fire_btn.png" />
+          <PlistImageFile Name="fire_btn_click.png" Key="fire_btn_click.png" />
+          <PlistImageFile Name="fire_btn_on.png" Key="fire_btn_on.png" />
+          <PlistImageFile Name="fireParticle.png" Key="fireParticle.png" />
+          <PlistImageFile Name="firework_btn.png" Key="firework_btn.png" />
+          <PlistImageFile Name="firework_btn_click.png" Key="firework_btn_click.png" />
+          <PlistImageFile Name="firework_btn_on.png" Key="firework_btn_on.png" />
+          <PlistImageFile Name="rain_btn.png" Key="rain_btn.png" />
+          <PlistImageFile Name="rain_btn_click.png" Key="rain_btn_click.png" />
+          <PlistImageFile Name="rain_btn_on.png" Key="rain_btn_on.png" />
+          <PlistImageFile Name="rippleParticle.png" Key="rippleParticle.png" />
+          <PlistImageFile Name="star_btn.png" Key="star_btn.png" />
+          <PlistImageFile Name="star_btn_click.png" Key="star_btn_click.png" />
+          <PlistImageFile Name="star_btn_on.png" Key="star_btn_on.png" />
+          <PlistImageFile Name="cornParticle.png" Key="cornParticle.png" />
+          <PlistImageFile Name="popcorn1Particle.png" Key="popcorn1Particle.png" />
+          <PlistImageFile Name="popcorn2Particle.png" Key="popcorn2Particle.png" />
+          <PlistImageFile Name="popcorn3Particle.png" Key="popcorn3Particle.png" />
+          <PlistImageFile Name="rainParticle.png" Key="rainParticle.png" />
+        </PlistImageFolder>
+        <PlistImageFolder Image="particletexture.png" PListFile="particletexture.plist" Name=".particletexture_PList.Dir">
+          <PlistImageFile Name="bubble.png" Key="bubble.png" />
+          <PlistImageFile Name="circle.png" Key="circle.png" />
+          <PlistImageFile Name="cloud.png" Key="cloud.png" />
+          <PlistImageFile Name="comet.png" Key="comet.png" />
+          <PlistImageFile Name="emittericon.png" Key="emittericon.png" />
+          <PlistImageFile Name="emittericon1.png" Key="emittericon1.png" />
+          <PlistImageFile Name="emitteroff.png" Key="emitteroff.png" />
+          <PlistImageFile Name="emitteron.png" Key="emitteron.png" />
+          <PlistImageFile Name="emittertd.png" Key="emittertd.png" />
+          <PlistImageFile Name="flare.png" Key="flare.png" />
+          <PlistImageFile Name="raindrop.png" Key="raindrop.png" />
+          <PlistImageFile Name="sliderballnormal.png" Key="sliderballnormal.png" />
+          <PlistImageFile Name="sliderballpressed.png" Key="sliderballpressed.png" />
+          <PlistImageFile Name="sliderProgress.png" Key="sliderProgress.png" />
+          <PlistImageFile Name="sliderTrack.png" Key="sliderTrack.png" />
+          <PlistImageFile Name="spark.png" Key="spark.png" />
+        </PlistImageFolder>
+        <TTF Name="arial.ttf" />
+        <Image Name="background.png" />
+        <Fnt Name="couriernew32.fnt" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <TTF Name="Marker Felt.ttf" />
+        <PlistParticleFile Name="particle_texture.plist" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
