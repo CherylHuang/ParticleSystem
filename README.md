@@ -1,2 +1,3 @@
 # ParticleSystem
-cocos2d project
+cocos2d project, 
+see more: https://youtu.be/hAcelJMjxiM
